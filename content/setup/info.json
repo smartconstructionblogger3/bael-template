@@ -2,7 +2,7 @@
   "sitename": "Smart Construction",
   "sitedescription": "Consturction Digital",
   "siteicon": "/images/uploads/icon.png",
-  "showmenu": true,
+  "showmenu": false,
   "emailsignup": false,
   "altlayout": false,
   "menu": []
